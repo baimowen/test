@@ -1,2 +1,8 @@
 This is test file
+<<<<<<< HEAD
 modify testfile in dev branch
+=======
+modify the test file in main branch
+reset and retry commit
+add something text to testfile
+>>>>>>> 0bc2c7c (add some text)
